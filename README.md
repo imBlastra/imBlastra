@@ -1,7 +1,6 @@
 #  imBlastra
 
 ## > What I Do
-- > **Game Development**
 - > **Web Development**
 
 ---
