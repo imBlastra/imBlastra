@@ -7,7 +7,7 @@
 
 ### >  Technologies & Tools
 - >  Helix
-- > Zig
+- > Nim
 - >  Github
 
 ---
